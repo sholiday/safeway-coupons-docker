@@ -2,6 +2,6 @@
 while :
 do
   python /safeway-coupons -c /safeway-coupons.config -d
-  echo "Sleeping..."
-  sleep 5m
+  echo "Sleeping for 25 hours..."
+  sleep 25h
 done
